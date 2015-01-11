@@ -7,7 +7,7 @@ A graphics raytracer, which was used to render the disco snowman above! Some fea
 
 * Moveable camera and generation of BMP images.
 * Primitives: planes, spheres and triangles (though there is a bug with the
-    material shading at the moment).
+    triangle material shading at the moment).
 * Shadows.
 * Reflections (recursive reflections).
 * Lighting: ambient light, point lights and spot lights. All in different
