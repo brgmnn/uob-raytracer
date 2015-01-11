@@ -25,13 +25,22 @@ Some things that would be fun to add:
 * Gtest.
 * GCC.
 
-### Compiling ###
+### Compiling and running ###
 
 Compile the raytracer with:
 
 ```
 make all
 ```
+
+Run the raytracer with:
+
+```
+./raytracer
+```
+
+This should render and create the `snowman-disco.bmp` image in the current
+folder.
 
 ### Some more pictures ###
 
