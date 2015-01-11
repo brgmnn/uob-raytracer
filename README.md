@@ -1,7 +1,7 @@
 # Raytracer #
 <sup>2013</sup>
 
-![A Disco Snowman](renders/snowman-disco.png "Disco Snowman")
+![A Disco Snowman](renders/snowman-disco.png?raw=true "Disco Snowman")
 
 A graphics raytracer, which was used to render the disco snowman above! Some features:
 
@@ -46,8 +46,8 @@ folder.
 
 Below are some more pictures I rendered using my raytracer.
 
-![A sphere with coloured lights, shadows, reflections.](renders/cool-disco-shadows.png "A sphere with coloured lights, shadows, reflections.")
-![Spheres with shadows and recursive reflections.](renders/spheres-shadows-recursive-reflections.png "Spheres with shadows and recursive reflections.")
-![A point light.](renders/point-light.png "A point light.")
-![A triangle primitive.](renders/triangle-reflection-shadows.png "A triangle primitive.")
-![Merged spheres.](renders/ambient.bmp "Merged spheres.")
+![A sphere with coloured lights, shadows, reflections.](renders/cool-disco-shadows.png?raw=true "A sphere with coloured lights, shadows, reflections.")
+![Spheres with shadows and recursive reflections.](renders/spheres-shadows-recursive-reflections.png?raw=true "Spheres with shadows and recursive reflections.")
+![A point light.](renders/point-light.png?raw=true "A point light.")
+![A triangle primitive.](renders/triangle-reflection-shadows.png?raw=true "A triangle primitive.")
+![Merged spheres.](renders/ambient.bmp?raw=true "Merged spheres.")
