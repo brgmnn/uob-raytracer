@@ -37,8 +37,17 @@ make all
 
 Below are some more pictures I rendered using my raytracer.
 
-![A sphere with coloured lights, shadows, reflections.](renders/cool-disco-shadows.png "Disco Sphere")
-![Spheres with shadows and recursive reflections.](renders/spheres-shadows-recursive-reflections.png "Recursive shadows")
-![A point light.](renders/point-light.png "Point Light")
-![A triangle primitive.](renders/triangle-reflection-shadows.png "Triangle Reflection")
-![Merged spheres.](renders/ambient.bmp "Ambient lighting")
+![A sphere with coloured lights, shadows, reflections.](renders/cool-disco-shadows.png "A sphere with coloured lights, shadows, reflections.")
+A sphere with coloured lights, shadows, reflections.
+
+![Spheres with shadows and recursive reflections.](renders/spheres-shadows-recursive-reflections.png "Spheres with shadows and recursive reflections.")
+Spheres with shadows and recursive reflections.
+
+![A point light.](renders/point-light.png "A point light.")
+A point light.
+
+![A triangle primitive.](renders/triangle-reflection-shadows.png "A triangle primitive.")
+A triangle primitive.
+
+![Merged spheres.](renders/ambient.bmp "Merged spheres.")
+Ambient lighting
